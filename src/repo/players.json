@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Erling Haaland",
+        "position": "Forward",
+        "clubId": 1
+    },
+    {
+        "name": "Kevin De Bruyne",
+        "position": "Midfielder",
+        "clubId": 1
+    },
+    {
+        "name": "Rúben Dias",
+        "position": "Defender",
+        "clubId": 1
+    },
+    {
+        "name": "Karim Benzema",
+        "position": "Forward",
+        "clubId": 2
+    },
+    {
+        "name": "Luka Modrić",
+        "position": "Midfielder",
+        "clubId": 2
+    },
+    {
+        "name": "Thibaut Courtois",
+        "position": "Goalkeeper",
+        "clubId": 2
+    },
+    {
+        "name": "Thomas Müller",
+        "position": "Forward",
+        "clubId": 3
+    },
+    {
+        "name": "Joshua Kimmich",
+        "position": "Midfielder",
+        "clubId": 3
+    },
+    {
+        "name": "Manuel Neuer",
+        "position": "Goalkeeper",
+        "clubId": 3
+    },
+    {
+        "name": "Kylian Mbappé",
+        "position": "Forward",
+        "clubId": 4
+    },
+    {
+        "name": "Lionel Messi",
+        "position": "Forward",
+        "clubId": 4
+    },
+    {
+        "name": "Marquinhos",
+        "position": "Defender",
+        "clubId": 4
+    }
+]
